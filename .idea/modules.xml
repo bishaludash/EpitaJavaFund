@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BLI1/BLI1.iml" filepath="$PROJECT_DIR$/BLI1/BLI1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DMO1/DMO1.iml" filepath="$PROJECT_DIR$/DMO1/DMO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DMO2/DMO2.iml" filepath="$PROJECT_DIR$/DMO2/DMO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SER1/SER1.iml" filepath="$PROJECT_DIR$/SER1/SER1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SER2/SER2.iml" filepath="$PROJECT_DIR$/SER2/SER2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SER3/SER3.iml" filepath="$PROJECT_DIR$/SER3/SER3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaPractice.iml" filepath="$PROJECT_DIR$/javaPractice.iml" />
+    </modules>
+  </component>
+</project>
